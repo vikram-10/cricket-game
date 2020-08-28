@@ -8,8 +8,38 @@
     <link rel="stylesheet" href="cricket.css">
 </head>
 <body>
-
-    
+<div class="heading">
+  <center>CRICKET 10</center>  
+</div>
+<hr>
+<div class="container">
+<div class="team1items">
+TEAM 1 SCORE<br>
+<span id="team1score">0</span>
+<br>
+<button type="button" class="btn btn-primary" id="hit1">Hit 1</button>
+</div>
+<div class="timer">
+TIMER<br>
+<span id="timerValue">60</span>
+</div>
+<div class="team2items">
+TEAM 2 SCORE<br>
+<span id="team2score">0</span>
+<br>
+<button type="button" class="btn btn-primary" id="hit2">Hit 2</button>
+</div> 
+</div>
+<hr>
+<button type="button" class="btn btn-primary" id="genResult">Generate Result</button> 
+<div class="container">
+<div class="team1Table">
+Team 1 Score Board
+</div>
+<div id="team2Table" style="display:inline">
+Team 2 Score Board
+</div>
+</div>  
 <script src="script.js"></script>    
 </body>
 </html>

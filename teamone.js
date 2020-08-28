@@ -3,7 +3,7 @@ exports.__esModule = true;
 exports.team1 = void 0;
 var team1 = /** @class */ (function () {
     function team1() {
-        console.log("Team One executed!");
+        console.log("Team1 Called");
     }
     return team1;
 }());

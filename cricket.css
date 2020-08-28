@@ -1,0 +1,59 @@
+.heading{
+    font-size: 30px;
+}
+.team1items{
+    font-size: 30px;
+    display: inline-block;
+    text-align: center;
+}
+.timer{
+    font-size: 20px;
+    display: inline-block;
+    margin-left: 30%;
+}
+.team2items{
+    font-size: 30px;
+    display: inline-block;
+    float: right;
+    text-align: center;
+}
+#team1score{
+    margin-left: 4%;
+}
+#hit1{
+    margin-left: 2%;
+}
+#timerValue{
+    font-size: 70px;
+}
+#genResult{
+    font-size: 20px;
+    margin-left: 46%;
+}
+
+tr{
+    font-size: 20px;
+}
+
+th{
+    border: 2px solid black;
+}
+td{
+    border: 2px solid black;
+}
+
+#team1PointsTable{
+    display: inline;
+    margin-top: 2%;
+    margin-left: 8%;
+}
+
+#team2PointsTable{
+    display: inline;
+    margin-top: 2%;
+    margin-left: 40%;
+}
+
+#team2Table{
+    margin-left: 83%;
+}
