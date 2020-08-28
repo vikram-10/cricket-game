@@ -1,1 +1,1 @@
-Dummt file for assesment task
+Dummy file for assesment task
