@@ -1,5 +1,5 @@
-import {teamOne} from "./teamone.js";
-import {teamTwo} from "./teamtwo.js";
+import {team1} from "./teamone.js";
+import {team2} from "./teamtwo.js";
 
-var a=new teamOne();
-var b=new teamTwo();
+var a=new team1();
+var b=new team2();
